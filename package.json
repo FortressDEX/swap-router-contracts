@@ -1,5 +1,5 @@
 {
-  "name": "@uniswap/swap-router-contracts",
+  "name": "@cndllabs/swap-router-contracts",
   "description": "Smart contracts for swapping on Uniswap V2 and V3",
   "license": "GPL-2.0-or-later",
   "publishConfig": {

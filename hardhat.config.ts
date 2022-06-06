@@ -51,6 +51,9 @@ export default {
     optimism: {
       url: `https://mainnet.optimism.io`,
     },
+    candle: {
+      url: `https://rpc.cndlchain.com`,
+    },
   },
   etherscan: {
     // Your API key for Etherscan
